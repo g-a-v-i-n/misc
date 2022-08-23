@@ -1,0 +1,16 @@
+{
+  "name": "misc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "g-a-v-i-n",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "1.0.0-rc.12",
+    "puppeteer": "^16.2.0"
+  }
+}
